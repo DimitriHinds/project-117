@@ -1,0 +1,20 @@
+body
+{
+    background-color: greenyellow;
+}
+#score
+{
+    font-size: large;
+    margin-left: 20px;
+    float: left;
+}
+#time
+{
+    font-size: large;
+    float: right;
+    margin-right: 20px;
+}
+#to_be_sketch
+{
+    color: red;
+}
